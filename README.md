@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi everyone
 
+I'm Marc-Antoine Meyer. Front-end developper and i mainly work on Vue.js projects
 <!--
 **Rogerjean/Rogerjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
